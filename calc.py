@@ -1,5 +1,5 @@
 def addition(x,y):
-    pass
+    return x+y
 def subration(x,y):
     pass
 def multiplication(x,y):
